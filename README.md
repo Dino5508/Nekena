@@ -1,0 +1,2 @@
+# Nekena
+Portfolio data Scientist
